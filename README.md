@@ -1,4 +1,3 @@
 # licitfree website
 
-
-licitfree.pages.dev
+<https://licitfree.pages.dev>
