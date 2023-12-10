@@ -27,7 +27,7 @@ i think i'm done
 
 what is the solution?
 
-https://licitfree.github.io/pay
+https://licitfree.pages.dev/pay
 
 that's it
 
