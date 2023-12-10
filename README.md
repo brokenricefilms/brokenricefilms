@@ -1,4 +1,4 @@
 # licitfree website
 
 
-licitfree.github.io
+licitfree.pages.dev
