@@ -7,6 +7,6 @@ tags:
   - english
 ---
 
-![cover](/../../assets/usb-stick-16gb-custom.avif)
+![cover](@assets/images/usb-stick-16gb-custom.avif)
 
 I have a USB flash drive, around Gb, have Fedora, EndeavourOS, NixOS, Windows 11, and driver for windows. I use [Ventoy](https://github.com/ventoy/Ventoy) for that.

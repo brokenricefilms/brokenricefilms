@@ -14,7 +14,7 @@ Okay. Bắt đầu với nội dung chính của bài viết này.
 
 **Không có.**
 
-![quang teo meme](/../../assets/quang-teo.png)
+![quang teo meme](@assets/images/quang-teo.png)
 
 “khoan, dừng khoảng chừng là 2 giây”
 
@@ -26,7 +26,7 @@ Sẵn tiện giới thiệu bản thân mình một chút luôn. Mình tên là 
 
 Ê Doraemon, lấy cho tớ mượn cái cổ máy thời gian coi.
 
-![nobita time machine](/../../assets/nobita-time-machine.png)
+![nobita time machine](@assets/images/nobita-time-machine.png)
 
 “Nhưng thật cay đắng khi biết là ú òa
 Mình chỉ là một người đến sau”
@@ -39,11 +39,11 @@ Thế là rồ ga tới hết nguyên 12 năm học phổ thông chủ yếu h�
 
 Thế rồi thi đại học xong, lại có thời gian ở nhà phè phỡn với cái laptop yêu dấu. Lúc đó xài Windows với cấu hình không hổ báo lắm nói thẳng ra là cùi bắp, thế rồi chuyện gì đến rồi sẽ đến mở mấy tab chrome là nó giật, lắc thấy sợ luôn rồi nghe giang hồ đồn Linux chạy mượt lém. Thôi rồi đây là sự bắt đầu một con nghiện Linux, trở thành một thành viên của giáo phái.
 
-![doge linux chad](/../../assets/doge-linux-chad.png)
+![doge linux chad](@assets/images/doge-linux-chad.png)
 
 Chuyện dẫn đến việc các tài liệu, lỗi các thể loại của Linux bằng tiếng Việt không được phong phú nói thẳng ra là thuộc dạng hộ xóa đói giảm nghèo, nên mình mới bắt đầu bị môi trường ép xài tiếng Anh để đọc, nghe mấy video trên Youtube, do nghiện rồi biết làm sao?
 
-![gau chi li](/../../assets/gau-chi-li.png)
+![gau chi li](@assets/images/gau-chi-li.png)
 
 Cũng do một phần mình cũng thích coi mấy cái Vlog của mấy chị đẹp trên Youtube, do nội dung tiếng Anh có chị đẹp cũng khá nhiều.
 
@@ -51,7 +51,7 @@ Và rồi chuyện lập trình các thứ tìm kiếm bằng tiếng Anh cũng 
 
 Đó tạo ra cho mình một lý do để bản thân **“xài"** tiếng Anh để coi mấy chị đẹp, ý nhầm ahihi **Linux vẫn là chân lý.**
 
-![gau hi hi](/../../assets/gau-hi-hi.png)
+![gau hi hi](@assets/images/gau-hi-hi.png)
 
 Rồi thế rồi bắt đầu cuộc sống sinh viên, học tiếng anh cũng có một chút khác khác, làm bài để kiểm tra TOEIC đồ nhưng có cái vui là được thuyết trình nhóm chém gió đồ cũng vui. Đây cũng là lần đầu tiếng giao tiếp tiếng anh với con người mặt đối mặt dù nói chuyện ngắn ngắn với thầy thôi nhưng mà dù gì thì vẫn là lần đầu tiên khá đáng nhớ.
 
@@ -59,7 +59,7 @@ Lên đại học thì mình ít để ý đến ngữ pháp, nói chung là là
 
 Coi Youtube cũng nhiều, thấy mấy chị đẹp vlog quài cũng dẫn tới một tư tưởng tại sao mình không làm một kênh Youtube để quay lại những kỷ niệm của mình rồi cảm thấy đủ rồi thì làm một cái video document về chính bản thân. Ú òa, vậy sản tiện cải thiện tiếng Anh bằng việc làm video luôn, một công đôi việc.
 
-![gau chi li](/../../assets/gau-chi-li.png)
+![gau chi li](@assets/images/gau-chi-li.png)
 
 Bàn chứng thép: https://www.youtube.com/@licitfree
 
@@ -81,13 +81,13 @@ Theo mình thấy có hai nguồn mình có thể recommend cho mấy bạn, m�
 
 Đây là link github của tiểu đệ có thể hú để chém gió đàm đạo với tiểu sư đệ Thuận dễ thương này: https://github.com/licitfree
 
-![gau cao tu](/../../assets/gau-cao-tu.png)
+![gau cao tu](@assets/images/gau-cao-tu.png)
 
 **Lêu lêu FA, chúc sớm có bồ nhá. Ahihi**
 
 Chợt nhận ra bản thân cũng FA. 😢
 
-![gau cry](/../../assets/gau-cry.png)
+![gau cry](@assets/images/gau-cry.png)
 
 ## Tham khảo, hình ảnh, linh ta linh tinh:
 

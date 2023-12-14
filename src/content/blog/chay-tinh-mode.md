@@ -13,7 +13,7 @@ Các hạ là Thuận biệt hiệu sinh nhai là licitfree một mọt code m�
 
 Dù mỗi ngày điều cấm mặt vào màn hình rồi làm chuyện ấy, cảm giác phê pha khi mỗi lần ra phải nói là tuyệt vời. Nhưng cấm mặt nhiều quá rồi làm chuyện ấy nhiều quá thì ông thần BUG lại chọc ghẹo.
 
-![gau lam gi tao](/../../assets/gau-lam-gi-tao.png)
+![gau lam gi tao](@assets/images/gau-lam-gi-tao.png)
 
 Haiyaa! Lại bản tính mọt code lại nổi lên, máu xuống rồi lại lên não như một chiếc tàu lượn siêu tốc, thôi rồi đời ta chẳng còn chi tay tay trắng tai mà thôi, giờ đời nở hoa hay lụt tàn đây, một cuộc chiến đấu một mất một còn giữa mọt code và ông thần BUG.
 
@@ -30,7 +30,7 @@ Thế ông Thuận owa owa ơi, chay tịnh mode là cái chi sao mà nó kỳ c
 
 Và đây là chay tịnh mode một phương pháp detox lâu dài là công pháp luyện công từ luyện khí đến độ kiếp phi thăng chuyên dành cho những mọt code trở thành bit độ kiếp sống trường sinh vĩnh cữu trong internet trở thành một mọt code tiên nhân pháp lực vô biên. Chém vậy thôi chứ tui là một mọt code luyện khí kỳ sáng chế ra công pháp này vẫn chưa lên trúc cơ nữa nói gì là độ kiếp phi thăng thành bit trường sinh aka mọt code tiên nhân.
 
-![gau tru duoc](/../../assets/gau-tru-duoc.png)
+![gau tru duoc](@assets/images/gau-tru-duoc.png)
 
 Đầu tiên để luyện thành tiên nhân, mọt code phải ngủ đủ mỗi ngày và quăng cái đồng hồ báo thức đi để tránh trường hợp làm phân tâm tới việc tu luyện trong mơ, đây là một phần quan trọng có một giấc ngủ đủ mỗi ngày thường là 8 tiếng sẽ gột rửa tâm hồn đưa ta đến môi trường tu luyện trong mơ làm tăng pháp lực mạnh mẽ, hấp thụ tiên khí trong mơ gặp tiên tử à nhằm gặp các vị mọt code tiên nhân để thỉnh giáo cách tu tiên. Đây là một bước quan trọng để những con nghiện code có những giấc mơ đẹp gặp tiên tử haiyaa lại nhằm gặp tiên nhân gặp giấc mơ trong giấc mơ.
 
@@ -45,7 +45,7 @@ Công pháp cuối cùng dùng để nâng cao tinh thần lực, khi tinh thầ
 
 Đây là tàn quyển đủ để các sư huynh sư tỷ luyện tới trúc cơ, quyển đầy đủ sẽ ra mắt khi tại dạ đột phá trúc cơ sơ kỳ nhắm chừng 50 năm nữa thôi rất ngắn, đổi với giới tu tiên đây chỉ là cái chớp mắt.
 
-![gau cao tu](/../../assets/gau-cao-tu.png)
+![gau cao tu](@assets/images/gau-cao-tu.png)
 
 ## Tham khảo linh ta linh tin:
 

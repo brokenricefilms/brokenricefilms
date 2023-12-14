@@ -7,6 +7,6 @@ tags:
   - english
 ---
 
-![cover](/../../assets/058 asus-vy279he.avif)
+![cover](@assets/images/asus-vy279he.avif)
 
 Work fine. But I think display size little large to me

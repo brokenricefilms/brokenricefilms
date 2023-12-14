@@ -7,7 +7,7 @@ tags:
   - english
 ---
 
-![cover](/../../assets/vsmart-live-4.avif)
+![cover](@assets/images/vsmart-live-4.avif)
 
 I use Vsmart live 4, Android 11 custom by Vsmart aka Vingroup, right now theme stop making phone, but i had no problem with that.
 

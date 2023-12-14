@@ -7,7 +7,7 @@ tags:
   - english
 ---
 
-![](/../../assets/logitech-h111.avif)
+![](@assets/images/logitech-h111.avif)
 
 Cheap, sound + mic okay for me.
 

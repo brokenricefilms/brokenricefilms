@@ -7,7 +7,7 @@ tags:
   - what-i-use
 ---
 
-![cover](/../../assets/logitech-h111.avif)
+![cover](@assets/images/logitech-h111.avif)
 
 My videos:
 

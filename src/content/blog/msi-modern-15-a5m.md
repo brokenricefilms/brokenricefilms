@@ -7,7 +7,7 @@ tags:
   - english
 ---
 
-![cover](/../../assets/msi-modern-15-a5m.avif)
+![cover](@assets/images/msi-modern-15-a5m.avif)
 
 This is my main computer, I use it for so many things.
 

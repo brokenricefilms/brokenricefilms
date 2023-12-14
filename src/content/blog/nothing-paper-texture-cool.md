@@ -8,7 +8,7 @@ tags:
   - editing
 ---
 
-![cover](/../../assets/nothing-paper-texture-cool.jpg)
+![cover](@assets/images/nothing-paper-texture-cool.jpg)
 
 Đang coi nothing chém gió thì thấy một cái hiệu ứng khá okay la có thể dùng trong những video tui thường edit
 

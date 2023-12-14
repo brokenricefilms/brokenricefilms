@@ -7,6 +7,6 @@ tags:
   - what-i-use
 ---
 
-![cover](/../../assets/baseus-slim-kickstand.avif)
+![cover](@assets/images/baseus-slim-kickstand.avif)
 
 Bring comfortable for my typing, the laptop monitor height increase like 4-5cm
