@@ -16,14 +16,17 @@ const { noMarginTop = false } = Astro.props;
   <div class="footer-wrapper">
     <Socials centered />
     <div class="copyright-wrapper">
-		<a
-			href="/posts/uncopyright"
-			class="px-4 py-2 sm:px-2 sm:py-0 sm:hover:text-textColor sm:hover:underline">Uncopyright</a
-		>
-        |
-		<a href="/rss.xml" class="px-4 py-2 sm:px-2 sm:py-0 sm:hover:text-textColor sm:hover:underline"
-			>RSS</a
-		>
+      <a
+        href="/posts/uncopyright"
+        class="sm:hover:text-textColor px-4 py-2 sm:px-2 sm:py-0 sm:hover:underline"
+        >Uncopyright</a
+      >
+       |
+      <a
+        href="/rss.xml"
+        class="sm:hover:text-textColor px-4 py-2 sm:px-2 sm:py-0 sm:hover:underline"
+        >RSS</a
+      >
     </div>
   </div>
 </footer>

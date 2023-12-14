@@ -5,44 +5,46 @@ import Layout from "@layouts/Layout.astro";
 import Main from "@layouts/Main.astro";
 import { SITE } from "@config";
 ---
+
 <Layout title={`Pay | ${SITE.title}`}>
   <Header activeNav="buy me a coffee" />
   <Main pageTitle="Pay" pageDesc="buy me a coffee">
     <iframe
-    id="kofiframe"
-    src="https://ko-fi.com/licitfree/?hidefeed=true&widget=true&embed=true&preview=true"
-    style="border:none;width:100%;padding:4px;background:#fafafa;"
-    height="712"
-    title="licitfree"></iframe>
-		<h2 class=" mb-4 text-2xl">Paypal</h2>
-		<a
-class="sm:hover:text-textColor sm:hover:underline font-bold"
-style="color: #228b22;"
-			target="_blank"
-			rel="noopener"
-			href="https://paypal.me/licitfree">paypal.me/licitfree</a
-<br>
-<br>
-<br>
-		<h2 class=" my-4 text-2xl">Bank</h2>
-		<h3 class=" my-2 text-xl">Domestis (Vietnam)</h3>
-		<ul class="list-inside list-disc">
-			<li>Account number: 9017041176921</li>
-			<li>Account name: Pham Tan Thuan</li>
-			<li>Bank name: Viet Capital Bank Ngân hàng TMCP Bản Việt</li>
-			<li>Branch: Hồ Chí Minh</li>
-			<li>City/ Province: Hồ Chí Minh</li>
-		</ul>
-		<h3 class="my-4 text-xl">Oversea</h3>
-		<ul class="list-inside list-disc">
-			<li>Account number: 9017041176921</li>
-			<li>Account name: Pham Tan Thuan</li>
-			<li>Bank name: VIET CAPITAL COMMERCIAL JOINT STOCK BANK</li>
-			<li>
-				Bank Address: 412 Nguyen Thi Minh Khai Street, Ward 5, District 3, Ho Chi Minh City, Vietnam
-			</li>
-			<li>SWIFT code: VCBCVNVX</li>
-		</ul>
+      id="kofiframe"
+      src="https://ko-fi.com/licitfree/?hidefeed=true&widget=true&embed=true&preview=true"
+      style="border:none;width:100%;padding:4px;background:#fafafa;"
+      height="712"
+      title="licitfree"></iframe>
+    <h2 class="mb-4 text-2xl">Paypal</h2>
+    <a
+      class="sm:hover:text-textColor font-bold sm:hover:underline"
+      style="color: #228b22;"
+      target="_blank"
+      rel="noopener"
+      href="https://paypal.me/licitfree">paypal.me/licitfree</a
+    >
+    <br />
+    <br />
+    <h2 class="my-4 text-2xl">Bank</h2>
+    <h3 class="my-2 text-xl">Domestis (Vietnam)</h3>
+    <ul class="list-inside list-disc">
+      <li>Account number: 9017041176921</li>
+      <li>Account name: Pham Tan Thuan</li>
+      <li>Bank name: Viet Capital Bank Ngân hàng TMCP Bản Việt</li>
+      <li>Branch: Hồ Chí Minh</li>
+      <li>City/ Province: Hồ Chí Minh</li>
+    </ul>
+    <h3 class="my-4 text-xl">Oversea</h3>
+    <ul class="list-inside list-disc">
+      <li>Account number: 9017041176921</li>
+      <li>Account name: Pham Tan Thuan</li>
+      <li>Bank name: VIET CAPITAL COMMERCIAL JOINT STOCK BANK</li>
+      <li>
+        Bank Address: 412 Nguyen Thi Minh Khai Street, Ward 5, District 3, Ho
+        Chi Minh City, Vietnam
+      </li>
+      <li>SWIFT code: VCBCVNVX</li>
+    </ul>
   </Main>
   <Footer />
 </Layout>

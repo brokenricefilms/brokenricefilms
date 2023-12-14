@@ -38,12 +38,15 @@ export default defineConfig({
   },
   scopedStyleStrategy: "where",
   redirects: {
-    '/resume': 'https://docs.google.com/document/d/1T8sRgGYb5Pzj45lTta8Er-9lUb8XgGxDy38xXKAK4m8',
-    '/portfolio': 'https://youtube.com/@licitfree/',
-    '/photos': 'https://twitter.com/licitfree/media',
-    '/music': 'https://www.youtube.com/playlist?list=PLxkEHjd_ca6f6gyg6plFPajUcPlS5_qcr',
-    '/meet': 'https://calendar.app.google/phJ3he2qu9t9LAKL7',
-    '/inbox': 'https://www.figma.com/file/Eh8ircd2aLDjE37eEWasj8/inbox?type=whiteboard&node-id=0-1&t=1YZUDygatvP68nrz-0',
-    '/tweet': 'https://twitter.com/compose/tweet',
-  }
+    "/resume":
+      "https://docs.google.com/document/d/1T8sRgGYb5Pzj45lTta8Er-9lUb8XgGxDy38xXKAK4m8",
+    "/portfolio": "https://youtube.com/@licitfree/",
+    "/photos": "https://twitter.com/licitfree/media",
+    "/music":
+      "https://www.youtube.com/playlist?list=PLxkEHjd_ca6f6gyg6plFPajUcPlS5_qcr",
+    "/meet": "https://calendar.app.google/phJ3he2qu9t9LAKL7",
+    "/inbox":
+      "https://www.figma.com/file/Eh8ircd2aLDjE37eEWasj8/inbox?type=whiteboard&node-id=0-1&t=1YZUDygatvP68nrz-0",
+    "/tweet": "https://twitter.com/compose/tweet",
+  },
 });
