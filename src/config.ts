@@ -7,7 +7,7 @@ export const SITE: Site = {
   title: "Licit Free",
   ogImage: "licitfree-og.png",
   lightAndDarkMode: true,
-  postPerPage: 9999999,
+  postPerPage: 9999,
 };
 
 export const LOCALE = ["en-EN"]; // set to [] to use the environment default
