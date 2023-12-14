@@ -43,6 +43,7 @@ export default defineConfig({
     '/photos': 'https://twitter.com/licitfree/media',
     '/music': 'https://www.youtube.com/playlist?list=PLxkEHjd_ca6f6gyg6plFPajUcPlS5_qcr',
     '/meet': 'https://calendar.app.google/phJ3he2qu9t9LAKL7',
-    '/inbox': 'https://www.figma.com/file/Eh8ircd2aLDjE37eEWasj8/inbox?type=whiteboard&node-id=0-1&t=1YZUDygatvP68nrz-0'
+    '/inbox': 'https://www.figma.com/file/Eh8ircd2aLDjE37eEWasj8/inbox?type=whiteboard&node-id=0-1&t=1YZUDygatvP68nrz-0',
+    '/tweet': 'https://twitter.com/compose/tweet',
   }
 });
