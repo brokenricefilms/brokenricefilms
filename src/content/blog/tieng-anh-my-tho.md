@@ -61,7 +61,7 @@ Coi Youtube cũng nhiều, thấy mấy chị đẹp vlog quài cũng dẫn tớ
 
 ![gau chi li](@assets/images/gau-chi-li.png)
 
-Bàn chứng thép: https://www.youtube.com/@licitfree
+Bàn chứng thép: https://www.youtube.com/@thuantanphamfilms
 
 Nói chung cũng là chém gió, lập trình open source project vui vui thì cũng quay upload lên youtube. Sau khoản mấy năm thì trình độ tiếng Anh mình vẫn thua mấy nhóc tì, không sao hướng tới mục tiêu nói chừng nào chị Google hiểu mới thôi 😂.
 
@@ -79,7 +79,7 @@ Theo mình thấy có hai nguồn mình có thể recommend cho mấy bạn, m�
 
 Đây là hai người mà mình có thể nhớ đến và xuất hiện đầu tiên trong đầu mình. Mấy sư huynh sư tỷ cũng có thể kiếm một soái ca soái tỷ nào đó trên youtube nói ngoại ngữ để lấy đó là lý do, hay một chủ đề nào đó mà bản thân thấy hứng thú.
 
-Đây là link github của tiểu đệ có thể hú để chém gió đàm đạo với tiểu sư đệ Thuận dễ thương này: https://github.com/licitfree
+Đây là link github của tiểu đệ có thể hú để chém gió đàm đạo với tiểu sư đệ Thuận dễ thương này: https://github.com/thuantanphamfilms
 
 ![gau cao tu](@assets/images/gau-cao-tu.png)
 

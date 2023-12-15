@@ -7,7 +7,7 @@ tags:
   - movie
 ---
 
-![](<https://github.com/licitfree/garden/raw/main/OMG!%20Oh%20My%20Girl%20(2022)%20poster.png>)
+![](<https://github.com/thuantanphamfilms/garden/raw/main/OMG!%20Oh%20My%20Girl%20(2022)%20poster.png>)
 
 "Giá mà lúc trước"
 

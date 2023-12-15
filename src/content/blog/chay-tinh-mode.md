@@ -9,7 +9,7 @@ tags:
 
 Bái kiến các sư huynh, sư tỷ đồng môn, đã đến với chương trình đàm đạo.
 
-Các hạ là Thuận biệt hiệu sinh nhai là licitfree một mọt code mới chân ướt chân ráo bước vào cuộc sống khó khăn, mưu sinh kiếm từng đồng từng cắt từ việc chiến đấu với những đứa con của bản thân hay là của ông hàng xóm được giới các nhà phê bình đàng anh đàn chị máu mặt đặt tên chung là BUG.
+Các hạ là Thuận biệt hiệu sinh nhai là thuantanphamfilms một mọt code mới chân ướt chân ráo bước vào cuộc sống khó khăn, mưu sinh kiếm từng đồng từng cắt từ việc chiến đấu với những đứa con của bản thân hay là của ông hàng xóm được giới các nhà phê bình đàng anh đàn chị máu mặt đặt tên chung là BUG.
 
 Dù mỗi ngày điều cấm mặt vào màn hình rồi làm chuyện ấy, cảm giác phê pha khi mỗi lần ra phải nói là tuyệt vời. Nhưng cấm mặt nhiều quá rồi làm chuyện ấy nhiều quá thì ông thần BUG lại chọc ghẹo.
 

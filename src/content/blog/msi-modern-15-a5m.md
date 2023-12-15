@@ -17,7 +17,7 @@ Here are my video preview: [Preview MSI Modern 15 A5M as the Linux user](https:/
 - RAM: 8Gb stock, i upgrade to 16Gb ram
 - Display: 15.6 inch
 - Operating system: Just basic Linux distro with Gnome desktop usually is Fedora
-- Software: Neovim, tmux, bash shell, kitty terminal. Here my [dotfiles](https://github.com/licitfree/dotfiles)
+- Software: Neovim, tmux, bash shell, kitty terminal. Here my [dotfiles](https://github.com/thuantanphamfilms/dotfiles)
 
 ---
 
