@@ -40,7 +40,7 @@ export default defineConfig({
   redirects: {
     "/resume":
       "https://docs.google.com/document/d/1T8sRgGYb5Pzj45lTta8Er-9lUb8XgGxDy38xXKAK4m8",
-    "/portfolio": "https://youtube.com/@thuantanphamfilms/",
+    "/portfolio": "https://youtube.com/@thuantanphamfilms",
     "/photos": "https://twitter.com/thuantanphamfilms/media",
     "/music":
       "https://www.youtube.com/playlist?list=PLxkEHjd_ca6f6gyg6plFPajUcPlS5_qcr",
