@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thuantanphamfilms.vercel.app/sitemap-index.xml
