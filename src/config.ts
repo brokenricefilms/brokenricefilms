@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Thuan Pham",
   desc: "Thuan Tan Pham Films website by thuan pham blog link",
   title: "Thuan Tan Pham Films",
-  ogImage: "thuantanphamfilms-og.png",
+  ogImage: "thuantanphamfilms-og.svg",
   lightAndDarkMode: true,
   postPerPage: 9999,
 };
