@@ -9,7 +9,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 * Astro v3
 
-> Check the AstroPaper v3 in [this blog post](https://astro-paper.pages.dev/posts/astro-paper-v3/)
+> Check the AstroPaper v3 in [this blog post](https://astro-paper.vercel.app/posts/astro-paper-v3/)
 
 ### Features
 
@@ -92,7 +92,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### ⚠ BREAKING CHANGES
 
-Check the AstroPaper v2 in [this blog post](https://astro-paper.pages.dev/posts/astro-paper-2/)
+Check the AstroPaper v2 in [this blog post](https://astro-paper.vercel.app/posts/astro-paper-2/)
 
 * **deps:** Migration of Astro to version 2
 
