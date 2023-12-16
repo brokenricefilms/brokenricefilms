@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "astro build && jampack ./dist",
     "preview": "astro preview",
     "sync": "astro sync",
     "astro": "astro",
@@ -17,7 +17,6 @@
   "dependencies": {
     "@astrojs/check": "^0.2.1",
     "@astrojs/rss": "^3.0.0",
-    "@astrojs/vercel": "^6.1.0",
     "@resvg/resvg-js": "^2.6.0",
     "astro": "^3.6.4",
     "fuse.js": "^6.6.2",
