@@ -3,6 +3,7 @@ import { SITE } from "@config";
 import "@styles/base.css";
 import { ViewTransitions } from "astro:transitions";
 import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
 
@@ -84,6 +85,7 @@ const socialImageURL = new URL(
     <script is:inline src="/toggle-theme.js"></script>
 
     <Analytics />
+    <SpeedInsights/>
   </head>
   <body>
     <slot />
