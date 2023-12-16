@@ -39,7 +39,7 @@ export default defineConfig({
   scopedStyleStrategy: "where",
   redirects: {
     "/resume":
-      "https://docs.google.com/document/d/1T8sRgGYb5Pzj45lTta8Er-9lUb8XgGxDy38xXKAK4m8",
+      "https://docs.google.com/document/d/1btJ26cWDt5AFa0rNs5bfKpyKHbIYrR3MSNeGZI84KNQ",
     "/portfolio": "https://youtube.com/@thuantanphamfilms",
     "/photos": "https://twitter.com/thuantanphamfilms/media",
     "/music":
