@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://thuantanphamfilms.vercel.app/", // replace this with your deployed domain
   author: "Thuan Pham",
-  desc: "Thuan Tan Pham Films website by thuan pham blog link",
+  desc: "Thuan Tan Pham Films website, blog, about",
   title: "Thuan Tan Pham Films",
   ogImage: "thuantanphamfilms-og.png",
   lightAndDarkMode: true,
