@@ -41,7 +41,6 @@ export default defineConfig({
     "/resume":
       "https://docs.google.com/document/d/1btJ26cWDt5AFa0rNs5bfKpyKHbIYrR3MSNeGZI84KNQ",
     "/portfolio": "https://youtube.com/@thuantanphamfilms",
-    "/photos": "https://twitter.com/thuantanphamfilms/media",
     "/music":
       "https://www.youtube.com/playlist?list=PLxkEHjd_ca6f6gyg6plFPajUcPlS5_qcr",
     "/meet": "https://calendar.app.google/phJ3he2qu9t9LAKL7",
