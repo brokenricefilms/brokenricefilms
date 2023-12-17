@@ -42,7 +42,7 @@ export default defineConfig({
       "https://docs.google.com/document/d/1btJ26cWDt5AFa0rNs5bfKpyKHbIYrR3MSNeGZI84KNQ",
     "/portfolio": "https://youtube.com/@thuantanphamfilms",
     "/music":
-      "https://www.youtube.com/playlist?list=PLxkEHjd_ca6f6gyg6plFPajUcPlS5_qcr",
+      "https://music.youtube.com/playlist?list=PLxkEHjd_ca6f6gyg6plFPajUcPlS5_qcr",
     "/meet": "https://calendar.app.google/phJ3he2qu9t9LAKL7",
     "/inbox":
       "https://www.figma.com/file/Eh8ircd2aLDjE37eEWasj8/inbox?type=whiteboard&node-id=0-1&t=1YZUDygatvP68nrz-0",
