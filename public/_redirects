@@ -2,3 +2,12 @@
 /portfolio https://youtube.com/@thuantanphamfilms
 /music https://music.youtube.com/playlist?list=PLxkEHjd_ca6f6gyg6plFPajUcPlS5_qcr
 /meet https://calendar.app.google/GqW6kCFviNvHSaua7
+/sitemap_index.xml /sitemap-index.xml
+sitemap.php /sitemap-index.xml
+/sitemap.txt /sitemap-index.xml
+/sitemap.xml.gz /sitemap-index.xml
+/sitemap /sitemap-index.xml
+/sitemap/sitemap.xml /sitemap-index.xml
+/sitemapindex.xml /sitemap-index.xml
+/sitemap/index.xml /sitemap-index.xml
+/sitemap1.xml /sitemap-index.xml
