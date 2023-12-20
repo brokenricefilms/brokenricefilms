@@ -27,7 +27,7 @@ i think i'm done
 
 what is the solution?
 
-https://thuantanphamfilms.vercel.app/pay
+https://thuantanphamfilms.pages.dev/pay
 
 that's it
 
