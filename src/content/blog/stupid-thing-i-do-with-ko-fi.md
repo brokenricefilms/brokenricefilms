@@ -9,9 +9,9 @@ tags:
 
 so let's begin the story
 
-i want to change my primary email in ko-fi to thuantanphamfilms@gmail.com as the default cuz i change the personal brand name
+i want to change my primary email in ko-fi to brokenricefilms@gmail.com as the default cuz i change the personal brand name
 
-the issue here is i type it wrong thuantanphamfilms -> **lit**citfree
+the issue here is i type it wrong brokenricefilms -> **lit**citfree
 
 well i realize i f#ckup
 
@@ -27,7 +27,7 @@ i think i'm done
 
 what is the solution?
 
-https://thuantanphamfilms.pages.dev/pay
+https://brokenricefilms.pages.dev/pay
 
 that's it
 

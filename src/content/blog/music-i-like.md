@@ -14,4 +14,4 @@ tags:
   - [B Ray](https://youtu.be/GDsZvdZ-7oA)
   - [Đen Vâu](https://youtu.be/IbC8kOidE90)
 
-[Music playlist](thuantanphamfilms.pages.dev/music)
+[Music playlist](brokenricefilms.pages.dev/music)
