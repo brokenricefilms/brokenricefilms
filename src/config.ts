@@ -27,6 +27,12 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
+    name: "Twitter",
+    href: "https://twitter.com/brokenricefilms",
+    linkTitle: `${SITE.title} on Twitter`,
+    active: true,
+  },
+  {
     name: "Github",
     href: "https://github.com/brokenricefilms",
     linkTitle: ` ${SITE.title} on Github`,
@@ -55,12 +61,6 @@ export const SOCIALS: SocialObjects = [
     href: "mailto:brokenricefilms@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
-  },
-  {
-    name: "Twitter",
-    href: "https://twitter.com/brokenricefilms",
-    linkTitle: `${SITE.title} on Twitter`,
-    active: false,
   },
   {
     name: "Twitch",
