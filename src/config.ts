@@ -21,6 +21,12 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
+    name: "YouTube",
+    href: "https://youtube.com/@brokenricefilms",
+    linkTitle: `${SITE.title} on YouTube`,
+    active: true,
+  },
+  {
     name: "Github",
     href: "https://github.com/brokenricefilms",
     linkTitle: ` ${SITE.title} on Github`,
@@ -36,7 +42,7 @@ export const SOCIALS: SocialObjects = [
     name: "Instagram",
     href: "https://instagram.com/brokenricefilms",
     linkTitle: `${SITE.title} on Instagram`,
-    active: true,
+    active: false,
   },
   {
     name: "LinkedIn",
@@ -61,12 +67,6 @@ export const SOCIALS: SocialObjects = [
     href: "https://github.com/brokenricefilms",
     linkTitle: `${SITE.title} on Twitch`,
     active: false,
-  },
-  {
-    name: "YouTube",
-    href: "https://youtube.com/@brokenricefilms",
-    linkTitle: `${SITE.title} on YouTube`,
-    active: true,
   },
   {
     name: "WhatsApp",
