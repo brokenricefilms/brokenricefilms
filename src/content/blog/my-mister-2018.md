@@ -36,7 +36,3 @@ Họ cố gắn, họ tìm kiếm họ đáng mất hi vọng và họ tìm ra h
 Nỗi đau, nỗi đau ấy?
 
 Và vài lời cũng chẳng được gọi là fan, cũng chỉ là một người yêu thích âm nhạc và những bộ phim của nữ diễn viên chính IU, có lẽ đây là bộ phim hàn đáng nhớ nhất của tôi và sự trình diễn tuyệt vời của cô ấy.
-
----
-
-Diễn viên: [IU](/posts/iu)
