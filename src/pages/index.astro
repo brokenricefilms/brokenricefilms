@@ -59,7 +59,7 @@ let tags = getUniqueTags(posts);
         <p>
           Contact <a
             href="mailto:brokenricefilms@gmail.com"
-            class="sm:hover:text-textColor px-4 py-2 sm:px-2 sm:py-0 sm:hover:underline"
+            class="text-lg font-bold decoration-dashed hover:underline"
             >brokenricefilms@gmail.com</a
           > for prices and to get your edit 😊
         </p>
@@ -76,7 +76,7 @@ let tags = getUniqueTags(posts);
             href="https://brokenricefilms.pages.dev/pay"
             target="_blank"
             rel="noopener noreferrer"
-            class="sm:hover:text-textColor sm:hover:underline"
+            class="text-lg font-bold decoration-dashed hover:underline"
             >Pay
           </a>
         </li>
@@ -85,7 +85,7 @@ let tags = getUniqueTags(posts);
             href="https://brokenricefilms.pages.dev/portfolio"
             target="_blank"
             rel="noopener noreferrer"
-            class="sm:hover:text-textColor sm:hover:underline"
+            class="text-lg font-bold decoration-dashed hover:underline"
             >Portfolio
           </a>
         </li>
@@ -94,7 +94,7 @@ let tags = getUniqueTags(posts);
             href="https://brokenricefilms.pages.dev/resume"
             target="_blank"
             rel="noopener noreferrer"
-            class="sm:hover:text-textColor sm:hover:underline"
+            class="text-lg font-bold decoration-dashed hover:underline"
             >Resume
           </a>
         </li>
@@ -103,7 +103,7 @@ let tags = getUniqueTags(posts);
             href="https://brokenricefilms.pages.dev/meet"
             target="_blank"
             rel="noopener noreferrer"
-            class="sm:hover:text-textColor sm:hover:underline"
+            class="text-lg font-bold decoration-dashed hover:underline"
             >Meeting
           </a>
         </li>
@@ -112,7 +112,7 @@ let tags = getUniqueTags(posts);
             href="https://brokenricefilms.pages.dev/m"
             target="_blank"
             rel="noopener noreferrer"
-            class="sm:hover:text-textColor sm:hover:underline"
+            class="text-lg font-bold decoration-dashed hover:underline"
             >Music i like
           </a>
         </li>
@@ -216,5 +216,8 @@ let tags = getUniqueTags(posts);
   }
   a {
     @apply font-bold;
+  }
+  #main-content {
+    @apply mx-auto w-full max-w-3xl px-4 pb-12 text-lg;
   }
 </style>
