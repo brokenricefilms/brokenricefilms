@@ -15,7 +15,7 @@ Tường chỉ có cà phê loãng ai ngờ lại là đen đá khum đường
 
 Đây cũng là lần đầu
 
-Theo tui nhớ là vậy :) 
+Theo tui nhớ là vậy :)
 
 Too spicy
 
@@ -23,7 +23,7 @@ Too spicy
 
 ## Lần đầu nóng bỏng
 
-Hồi đó tui có coi youtuber cũng  hay phàn nàn về vấn đề này
+Hồi đó tui có coi youtuber cũng hay phàn nàn về vấn đề này
 
 Tường tượng có một ngày tui cũng gặp sao ta, cảm xúc lúc đó mình sẽ như thế nào?
 
@@ -43,7 +43,7 @@ Có lẽ lời văn too spicy, nhưng mặt tui cũng khá dày nên cũng okay 
 
 Có lẽ cuộc sống thường ngày tui cũng hơi màu hường nên lâu lâu có tí đỏ đỏ làm đời thêm vui
 
-Có lẽ tui hơi thiên vị khi đây là lần đầu tiên, chắc lần sau mặc định đơn thuần là a**hole và cho vào vùng đất quên lãng ;)
+Có lẽ tui hơi thiên vị khi đây là lần đầu tiên, chắc lần sau mặc định đơn thuần là a\*\*hole và cho vào vùng đất quên lãng ;)
 
 Trích lại comment của bạn ý
 

@@ -8,7 +8,7 @@ tags:
 description: ""
 ---
 
-Chuyện rằng tui có 2 layer 
+Chuyện rằng tui có 2 layer
 
 Layer 1 là một cái solid color white
 
