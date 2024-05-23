@@ -96,7 +96,7 @@ const socialImageURL = new URL(
         position: fixed;
         opacity: 0.1;
         animation: animateGrain 8s steps(10) infinite;
-        z-index: auto;
+        pointer-events: none;
       }
 
       @keyframes animateGrain {
@@ -138,7 +138,6 @@ const socialImageURL = new URL(
       }
 
       .front {
-        z-index: 1;
       }
     </style>
   </body>
