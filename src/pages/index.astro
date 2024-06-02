@@ -54,6 +54,14 @@ let tags = getUniqueTags(posts);
           I live in Ho Chi Minh City, Vietnam. So, feel free to contact me if
           you'd like me to help you.
         </p>
+        <a href="/portfolio">
+          <button
+            id="shake-button"
+            type="button"
+            class="text-sl mb-2 me-2 rounded-lg bg-green-700 px-5 py-2.5 font-medium text-white hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800"
+            >Check my Portfolio</button
+          >
+        </a>
       </div>
     </section>
 
@@ -210,5 +218,35 @@ let tags = getUniqueTags(posts);
   }
   #main-content {
     @apply mx-auto w-full max-w-3xl px-4 pb-12 text-lg;
+  }
+
+  #shake-button:hover {
+    animation: tilt-n-move-shaking 0.25s infinite;
+  }
+
+  @keyframes tilt-n-move-shaking {
+    0% {
+      transform: translate(0, 0) rotate(0deg);
+      filter: blur(0.1px);
+    }
+    25% {
+      transform: translate(5px, 5px) rotate(5deg);
+      filter: blur(0.25px);
+    }
+    50% {
+      transform: translate(0, 0) rotate(0eg);
+
+      filter: blur(0.5px);
+    }
+    75% {
+      transform: translate(-5px, 5px) rotate(-5deg);
+
+      filter: blur(0.75px);
+    }
+    100% {
+      transform: translate(0, 0) rotate(0deg);
+
+      filter: blur(1px);
+    }
   }
 </style>
