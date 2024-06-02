@@ -8,6 +8,7 @@ import Socials from "@components/Socials.astro";
 
 import { Image } from "astro:assets";
 import thuanFace from "@assets/images/thuan-face.png";
+import editLikeYouGiveAF from "@assets/images/af.png";
 ---
 
 <Layout>
@@ -15,12 +16,20 @@ import thuanFace from "@assets/images/thuan-face.png";
   <main id="main-content">
     <section id="hero">
       <h1>Thuan Pham/ Editor</h1>
+      <Image
+        class="mb-4"
+        src={editLikeYouGiveAF}
+        width={}
+        format={"webp"}
+        alt="edit like you give a f"
+        loading="eager"
+      />
       <div id="shake">
         <Image
           class="mb-4"
           src={thuanFace}
           width={250}
-          format={"png"}
+          format={"webp"}
           alt="Thuan Pham"
           loading="eager"
         />
