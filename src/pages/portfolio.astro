@@ -17,7 +17,7 @@ import editLikeYouGiveAF from "@assets/images/af.png";
     <section id="hero">
       <h1>Thuan Pham/ Editor</h1>
       <Image
-        class="mb-4"
+        id="af"
         src={editLikeYouGiveAF}
         width={}
         format={"webp"}
@@ -367,6 +367,14 @@ import editLikeYouGiveAF from "@assets/images/af.png";
     animation: horizontal-shaking 0.01s infinite;
   }
 
+  #af {
+    margin-bottom: -80px;
+  }
+
+  #af:hover {
+    animation: horizontal-shaking 0.001s infinite;
+  }
+
   @keyframes tilt-n-move-shaking-avata {
     0% {
       transform: translate(0, 0) rotate(0deg);
@@ -426,6 +434,29 @@ import editLikeYouGiveAF from "@assets/images/af.png";
     }
     75% {
       transform: translateX(10px);
+      filter: blur(4px);
+    }
+    100% {
+      transform: translateX(0);
+      filter: blur(5px);
+    }
+  }
+
+  @keyframes horizontal-shaking {
+    0% {
+      transform: translateX(0);
+      filter: blur(1px);
+    }
+    25% {
+      transform: translateX(1px);
+      filter: blur(2px);
+    }
+    50% {
+      transform: translateX(-1px);
+      filter: blur(3px);
+    }
+    75% {
+      transform: translateX(1px);
       filter: blur(4px);
     }
     100% {
