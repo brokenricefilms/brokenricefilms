@@ -1,0 +1,25 @@
+---
+title: "Portfolio";
+import { Tweet, Vimeo, YouTube } from "astro-embed";
+import Layout from "@layouts/Layout.astro";
+import Header from "@components/Header.astro";
+import Footer from "@components/Footer.astro";
+---
+
+<Layout>
+  <Header />
+  <main id="main-content">
+    <section id="hero">
+      <p class="text-xl font-bold">Yo!</p>
+      <Vimeo
+        id="952757183"
+        params="controls=true&muted=true&autoplay=true&loop=true"
+      />
+      <Vimeo
+        id="952757173"
+        params="controls=true&muted=true&autoplay=true&loop=true"
+      />
+      <Footer />
+    </section>
+  </main>
+</Layout>
