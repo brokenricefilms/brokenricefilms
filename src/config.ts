@@ -24,7 +24,7 @@ export const SOCIALS: SocialObjects = [
     name: "YouTube",
     href: "https://youtube.com/@brokenricefilms",
     linkTitle: `${SITE.title} on YouTube`,
-    active: true,
+    active: false,
   },
   {
     name: "Twitter",

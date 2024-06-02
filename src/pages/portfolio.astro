@@ -320,7 +320,7 @@ import thuanFace from "@assets/images/thuan-face.png";
         <button
           type="button"
           id="shake-button"
-          class="m-10 me-2 rounded-lg bg-green-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800"
+          class="m-10 me-2 rounded-lg bg-green-700 px-5 py-2.5 text-8xl font-medium text-white hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800"
           >Work With Me</button
         >
       </a>
@@ -348,15 +348,37 @@ import thuanFace from "@assets/images/thuan-face.png";
   }
 
   #shake {
-    animation: tilt-n-move-shaking 1.75s infinite;
+    animation: tilt-n-move-shaking-avata 1.5s infinite;
   }
 
   #shake-button:hover {
     animation: tilt-n-move-shaking 0.25s infinite;
   }
 
-  #button-heading:hover {
+  #button-heading:focus {
     animation: horizontal-shaking 0.01s infinite;
+  }
+
+  @keyframes tilt-n-move-shaking-avata {
+    0% {
+      transform: translate(0, 0) rotate(0deg);
+      filter: blur(0.1px);
+    }
+    25% {
+      transform: translate(2px, 2px) rotate(2deg);
+      filter: blur(0.25px);
+    }
+    50% {
+      transform: translate(0, 0) rotate(0eg);
+      filter: blur(0.5px);
+    }
+    75% {
+      transform: translate(-2px, 2px) rotate(-2deg);
+    }
+    100% {
+      transform: translate(0, 0) rotate(0deg);
+      filter: blur(1px);
+    }
   }
 
   @keyframes tilt-n-move-shaking {
