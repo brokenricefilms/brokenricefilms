@@ -27,6 +27,18 @@ const { noMarginTop = false } = Astro.props;
         class="sm:hover:text-textColor px-4 py-2 sm:px-2 sm:py-0 sm:hover:underline"
         >RSS</a
       >
+       |
+      <a
+        href="/contact"
+        class="sm:hover:text-textColor px-4 py-2 sm:px-2 sm:py-0 sm:hover:underline"
+        >Work With Me</a
+      >
+       |
+      <a
+        href="/portfolio"
+        class="sm:hover:text-textColor px-4 py-2 sm:px-2 sm:py-0 sm:hover:underline"
+        >Portfolio</a
+      >
     </div>
   </div>
 </footer>
@@ -49,5 +61,8 @@ const { noMarginTop = false } = Astro.props;
   }
   .separator {
     @apply hidden sm:inline;
+  }
+  a:hover {
+    @apply text-xl text-green-400;
   }
 </style>
