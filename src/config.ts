@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://brokenricefilms.pages.dev/", // replace this with your deployed domain
   author: "Thuan Pham",
-  desc: "Broken Rice Films website, blog, about, Thuan Pham",
+  desc: "Broken Rice Films website, blog, about, portfolio, Thuan Pham",
   title: "Broken Rice Films",
   ogImage: "brokenricefilms-og.png",
   lightAndDarkMode: true,
