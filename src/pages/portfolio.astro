@@ -4,22 +4,158 @@ import { Tweet, Vimeo, YouTube } from "astro-embed";
 import Layout from "@layouts/Layout.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
+import Socials from "@components/Socials.astro";
+
+import { Image } from "astro:assets";
+import thuanFace from "@assets/images/thuan-face.png";
 ---
 
 <Layout>
   <Header />
   <main id="main-content">
     <section id="hero">
-      <p class="text-xl font-bold">Yo!</p>
-      <Vimeo
-        id="952757183"
-        params="controls=true&muted=true&autoplay=true&loop=true"
-      />
-      <Vimeo
-        id="952757173"
-        params="controls=true&muted=true&autoplay=true&loop=true"
-      />
-      <Footer />
+      <h1>Thuan Pham/ Editor</h1>
+      <div id="shake">
+        <Image
+          class="mb-4"
+          src={thuanFace}
+          width={250}
+          format={"png"}
+          alt="Thuan Pham"
+          loading="eager"
+        />
+      </div>
+      <Socials />
+      <div class="mb-8 mt-8">
+        <a href="/contact" ">
+          <button
+            type="button"
+            id="shake-button"
+            class="mb-2 me-2 rounded-lg bg-green-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800"
+            >Work With Me</button
+          >
+        </a>
+      </div>
+      <h2 class="title mb-4 text-2xl font-bold">Travels</h2>
+    </section>
+    <section id="Animation">
+      <h2 class="title mb-4 text-2xl font-bold">Animation</h2>
+      <div class="aspect-w-16 aspect-h-9 relative" style="padding-top: 56.25%">
+        <iframe
+          class="absolute inset-0 h-full w-full"
+          src="https://player.vimeo.com/video/952757183?badge=0&autopause=0&autoplay=1&loop=1&muted=1&controls=false"
+          frameborder="0"
+          allow="autoplay; fullscreen;"
+          allowfullscreen></iframe>
+      </div>
+      <div class="aspect-w-16 aspect-h-9 relative" style="padding-top: 56.25%">
+        <iframe
+          class="absolute inset-0 h-full w-full"
+          src="https://player.vimeo.com/video/952757173?badge=0&autopause=0&autoplay=1&loop=1&muted=1&controls=false"
+          frameborder="0"
+          allow="autoplay; fullscreen;"
+          allowfullscreen></iframe>
+      </div>
+      <div style="padding:100% 0 0 0;position:relative;">
+        <iframe
+          src="https://player.vimeo.com/video/952764926?badge=0&autopause=0&portrait=false&title=false&byline=false&badge=false&autoplay=1&loop=1&muted=1&controls=false"
+          frameborder="0"
+          allow="autoplay; fullscreen; picture-in-picture; clipboard-write"
+          style="position:absolute;top:0;left:0;width:100%;height:100%;"
+          title="Saigon, Vietnamese Coffee ｜ markdieu v1.2"></iframe>
+      </div><script src="https://player.vimeo.com/api/player.js"></script>
+    </section>
+
+    <section id="Short">
+      <h2 class="title mb-4 text-2xl font-bold">Shorts</h2>
+      <div style="padding:100% 0 0 0;position:relative;">
+        <iframe
+          src="https://player.vimeo.com/video/952764926?badge=0&autopause=0&portrait=false&title=false&byline=false&badge=false"
+          frameborder="0"
+          allow="autoplay; fullscreen; picture-in-picture; clipboard-write"
+          style="position:absolute;top:0;left:0;width:100%;height:100%;"
+          title="Saigon, Vietnamese Coffee ｜ markdieu v1.2"></iframe>
+      </div><script src="https://player.vimeo.com/api/player.js"></script>
+      <div style="padding:100% 0 0 0;position:relative;">
+        <iframe
+          src="https://player.vimeo.com/video/952786008?badge=0&autopause=0&portrait=false&title=false&byline=false&badge=false"
+          frameborder="0"
+          allow="autoplay; fullscreen; picture-in-picture; clipboard-write"
+          style="position:absolute;top:0;left:0;width:100%;height:100%;"
+          title="Saigon, Vietnamese Coffee ｜ markdieu v1.2"></iframe>
+      </div><script src="https://player.vimeo.com/api/player.js"></script>
+      <div style="padding:100% 0 0 0;position:relative;">
+        <iframe
+          src="https://player.vimeo.com/video/952786450?badge=0&autopause=0&portrait=false&title=false&byline=false&badge=false"
+          frameborder="0"
+          allow="autoplay; fullscreen; picture-in-picture; clipboard-write"
+          style="position:absolute;top:0;left:0;width:100%;height:100%;"
+          title="Saigon, Vietnamese Coffee ｜ markdieu v1.2"></iframe>
+      </div><script src="https://player.vimeo.com/api/player.js"></script>
+    </section>
+    <section>
+      <a href="/contact">
+        <button
+          type="button"
+          id="shake-button"
+          class="mb-2 me-2 rounded-lg bg-green-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800"
+          >Work With Me</button
+        >
+      </a>
     </section>
   </main>
 </Layout>
+
+<Footer />
+
+<style>
+  #hero {
+    @apply pb-6 pt-8;
+  }
+  #hero h1 {
+    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
+  }
+  #hero .rss-link {
+    @apply mb-6;
+  }
+  #hero .rss-icon {
+    @apply mb-2 h-6 w-6 scale-110 fill-skin-accent sm:mb-3 sm:scale-125;
+  }
+  #hero p {
+    @apply my-4;
+  }
+
+  #shake {
+    animation: tilt-n-move-shaking 1.75s infinite;
+  }
+
+  #shake-button:hover {
+    animation: tilt-n-move-shaking 0.25s infinite;
+  }
+
+  @keyframes tilt-n-move-shaking {
+    0% {
+      transform: translate(0, 0) rotate(0deg);
+      filter: blur(0.1px);
+    }
+    25% {
+      transform: translate(5px, 5px) rotate(5deg);
+      filter: blur(0.25px);
+    }
+    50% {
+      transform: translate(0, 0) rotate(0eg);
+
+      filter: blur(0.5px);
+    }
+    75% {
+      transform: translate(-5px, 5px) rotate(-5deg);
+
+      filter: blur(0.75px);
+    }
+    100% {
+      transform: translate(0, 0) rotate(0deg);
+
+      filter: blur(1px);
+    }
+  }
+</style>
