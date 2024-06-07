@@ -4,6 +4,7 @@ pubDatetime: 2024-6-6T04:06:31Z
 description: ""
 tags:
   - english
+  - script
 ---
 
 ```js
