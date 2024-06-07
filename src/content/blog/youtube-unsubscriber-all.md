@@ -35,6 +35,8 @@ function myTimer() {
 
   i++;
 
+  window.scrollBy(0, window.innerHeight);
+
   console.log(els.length + " remaining");
 }
 ```
