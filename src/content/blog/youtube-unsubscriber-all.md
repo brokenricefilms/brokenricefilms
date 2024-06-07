@@ -12,7 +12,7 @@ https://www.youtube.com/feed/channels
 ```js
 let i = 0;
 
-let myLet = setInterval(myTimer, 3000);
+let touchGrass = setInterval(myTimer, 3000);
 
 function myTimer() {
   let els = document
