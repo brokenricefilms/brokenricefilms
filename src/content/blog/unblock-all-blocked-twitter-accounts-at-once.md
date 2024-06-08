@@ -8,7 +8,7 @@ tags:
 ---
 
 ```js
-let autoBlock = setInterval(function () {
+let autoUnBlock = setInterval(function () {
   window.scrollBy(0, window.innerHeight);
   document.querySelectorAll('[aria-label="Block"]').forEach(function (account) {
     account.click();
@@ -17,7 +17,7 @@ let autoBlock = setInterval(function () {
 ```
 
 ```js
-clearInterval(autoBlock);
+clearInterval(autoUnBlock);
 ```
 
 ---
