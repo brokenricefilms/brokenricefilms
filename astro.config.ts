@@ -15,6 +15,7 @@ export default defineConfig({
     }),
     react(),
     sitemap(),
+    (await import("@playform/compress")).default(),
   ],
   markdown: {
     remarkPlugins: [
