@@ -1,6 +1,6 @@
 ---
 title: Cách truy cập vào VNPT router iGate GW040-H
-pubDatetime: 2024-6-21T07:06:31Z
+pubDatetime: 2024-6-21T01:06:31Z
 description: ""
 tags:
   - vietnamese
