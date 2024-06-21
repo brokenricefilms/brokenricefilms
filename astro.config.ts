@@ -45,4 +45,8 @@ export default defineConfig({
     },
   },
   scopedStyleStrategy: "where",
+  redirects: {
+    "/meett":
+      "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0Sa06ORJyQ89j7hbPsmRie_TtbCpFfVJ4iNmXn_FUgx_TcV81L6qRMwHwqqKTWJSRDubyJp66_",
+  },
 });
