@@ -11,6 +11,9 @@ import playformCompress from "@playform/compress";
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
+  prefetch: {
+    prefetchAll: true,
+  },
   integrations: [
     tailwind({
       applyBaseStyles: false,
