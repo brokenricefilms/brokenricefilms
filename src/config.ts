@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Thuan Pham",
   desc: "Broken Rice Films website, blog, about, portfolio, Thuan Pham",
   title: "Broken Rice Films",
-  ogImage: "brokenricefilms-og.png",
+  ogImage: "brokenricefilms-og.webp",
   lightAndDarkMode: true,
   postPerPage: 9999,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
