@@ -12,7 +12,6 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
   const { title, pubDatetime, description } = frontmatter;
 
   const headerProps = {
-    style: { viewTransitionName: slugifyStr(title) },
     className: "text-lg font-medium decoration-dashed hover:underline",
   };
 
