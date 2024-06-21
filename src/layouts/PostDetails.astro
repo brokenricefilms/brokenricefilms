@@ -59,9 +59,9 @@ const ogUrl = new URL(
     <ul class="my-8">
       {tags.map(tag => <Tag name={slugifyStr(tag)} />)}
     </ul>
-    <PostComments />
+    <PostComments client: />
   </main>
-  <Footer />
+  <Footer client:visible />
 </Layout>
 
 <style>
