@@ -125,7 +125,8 @@ This script works better on Firefox, in my experience.
   const VIDEO_ROW_SELECTOR = "ytcp-video-row";
   const DRAFT_MODAL_SELECTOR = ".style-scope.ytcp-uploads-dialog";
   const DRAFT_BUTTON_SELECTOR = ".edit-draft-button";
-  const MADE_FOR_KIDS_SELECTOR = "#made-for-kids-group";
+  //  const MADE_FOR_KIDS_SELECTOR = '#made-for-kids-group';
+  const VIDEO_MADE_FOR_KIDS_NOT_MFK = "#made-for-kids-group";
   const RADIO_BUTTON_SELECTOR = "tp-yt-paper-radio-button";
   const VISIBILITY_STEPPER_SELECTOR = "#step-badge-3";
   const VISIBILITY_PAPER_BUTTONS_SELECTOR = "tp-yt-paper-radio-group";
@@ -275,7 +276,7 @@ This script works better on Firefox, in my experience.
       const visibility = await draft.goToVisibility();
       await visibility.setVisibility();
       const dialog = await visibility.save();
-      await dialog.close();
+      // await dialog.close();
       await sleep(100);
     }
   }
