@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://brokenricefilms.pages.dev/", // replace this with your deployed domain
+  website: "https://brokenricefilms.github.io/", // replace this with your deployed domain
   author: "Thuan Pham",
   desc: "Thuan Pham, a video editor based in Ho Chi Minh City, who goes by Broken Rice Films.",
   title: "Broken Rice Films",
