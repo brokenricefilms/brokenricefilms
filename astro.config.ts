@@ -46,7 +46,11 @@ export default defineConfig({
   },
   scopedStyleStrategy: "where",
   redirects: {
-    "/meett":
+    "/meet":
       "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0Sa06ORJyQ89j7hbPsmRie_TtbCpFfVJ4iNmXn_FUgx_TcV81L6qRMwHwqqKTWJSRDubyJp66_",
+    "/rss": "/rss.xml",
+    "/sitemap": "/sitemap-index.xml",
+    "upwork": "https://www.upwork.com/freelancers/~016411720ecd96d7f4",
+    "music": "https://www.youtube.com/playlist?list=PLxkEHjd_ca6fNUJh9CTEbShDVCadJ1dIv",
   },
 });
