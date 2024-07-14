@@ -7,7 +7,7 @@ tags:
   - script
 ---
 
-````js
+```js
 const links = document.querySelectorAll('a[href*=".mp4"], a[href*=".mkv"]');
 const urls = [];
 
@@ -16,13 +16,13 @@ for (const link of links) {
 }
 
 if (urls.length === 0) {
-  console.log('No .mp4 or .mkv links found on this page.');
+  console.log("No .mp4 or .mkv links found on this page.");
 } else {
-  const blob = new Blob([urls.join('\n')], { type: 'text/plain' });
-  const filename = 'video_links.txt';
+  const blob = new Blob([urls.join("\n")], { type: "text/plain" });
+  const filename = "video_links.txt";
   const url = window.URL.createObjectURL(blob);
 
-  const link = document.createElement('a');
+  const link = document.createElement("a");
   link.href = url;
   link.download = filename;
   link.click();
@@ -30,4 +30,4 @@ if (urls.length === 0) {
   window.URL.revokeObjectURL(url); // Clean up temporary URL
   console.log(`${urls.length} links found and saved to ${filename}`);
 }
-````
+```
