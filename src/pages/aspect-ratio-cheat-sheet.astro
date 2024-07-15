@@ -7,6 +7,9 @@ import Footer from "@components/Footer.astro";
 
 <Layout title={`Aspect Ratio Cheat Sheet | ${SITE.title}`}>
   <Header />
+  <section id="hero">
+    <h1>Aspect ratio cheat sheet</h1>
+  </section>
   <main id="main-content">
     <div class="col sqs-col-2 span-2">
       <div
@@ -773,6 +776,22 @@ import Footer from "@components/Footer.astro";
 <style>
   #main-content {
     @apply mx-auto flex max-w-3xl flex-1 items-center justify-center;
+  }
+
+  #hero {
+    @apply pb-6 pt-8;
+  }
+  #hero h1 {
+    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
+  }
+  #hero .rss-link {
+    @apply mb-6;
+  }
+  #hero .rss-icon {
+    @apply mb-2 h-6 w-6 scale-110 fill-skin-accent sm:mb-3 sm:scale-125;
+  }
+  #hero p {
+    @apply my-4;
   }
 
   h3 {
