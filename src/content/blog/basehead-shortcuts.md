@@ -5,7 +5,7 @@ featured: false
 tags:
   - english
   - editing
-description: ""
+description: "keyboard shortcuts, key commands"
 ---
 
 Space – Play/Stop
