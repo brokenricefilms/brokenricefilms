@@ -1,6 +1,6 @@
 ---
 title: "Basehead shortcuts"
-pubDatetime: 2024-7-22T04:06:31Z
+pubDatetime: 2024-7-21T04:06:31Z
 featured: false
 tags:
   - english
