@@ -53,5 +53,7 @@ export default defineConfig({
     upwork: "https://www.upwork.com/freelancers/~016411720ecd96d7f4",
     music:
       "https://www.youtube.com/playlist?list=PLxkEHjd_ca6fNUJh9CTEbShDVCadJ1dIv",
+    home:
+      "https://maps.app.goo.gl/q7PeoxsA2r3uGhwo6",
   },
 });
