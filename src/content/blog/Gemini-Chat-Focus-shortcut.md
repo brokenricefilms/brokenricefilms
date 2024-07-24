@@ -15,7 +15,7 @@ Install: github raw script here
 
 ```js
 // ==UserScript==
-// @name         Gemini Chat Focus Input
+// @name         Gemini Chat Focus shortcut
 // @namespace    Violentmonkey Scripts
 // @version      1.0
 // @description  Focuses the chat input field when 'Escape' is pressed.
