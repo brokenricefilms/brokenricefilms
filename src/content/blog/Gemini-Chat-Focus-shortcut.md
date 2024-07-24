@@ -18,7 +18,7 @@ Use `Esc` key to focus chat input
 ```js
 // ==UserScript==
 // @name         Gemini Chat Focus shortcut
-// @namespace    Violentmonkey Scripts
+// @namespace    https://github.com/brokenricefilms/gemini-chat-focus-shortcut
 // @version      1.0
 // @description  Focuses the chat input field when 'Escape' is pressed.
 // @author       brokenricefilms
