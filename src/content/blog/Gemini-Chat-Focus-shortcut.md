@@ -13,6 +13,8 @@ Repo: https://github.com/brokenricefilms/gemini-chat-focus-shortcut (script in t
 
 Install: https://github.com/brokenricefilms/gemini-chat-focus-shortcut/raw/main/gemini-chat-focus-shortcut.user.js
 
+Use `Esc` key to focus chat input
+
 ```js
 // ==UserScript==
 // @name         Gemini Chat Focus shortcut
