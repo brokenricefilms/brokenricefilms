@@ -9,9 +9,9 @@ tags:
 
 I use this extension to run a script: https://violentmonkey.github.io 
 
-Repo: https://github.com/brokenricefilms/gemini-chat-focus-shortcut
+Repo: https://github.com/brokenricefilms/gemini-chat-focus-shortcut (script in this repo will be up to date, cuz i'm lazy to update script here)
 
-Install: github raw script here
+Install: https://github.com/brokenricefilms/gemini-chat-focus-shortcut/raw/main/gemini-chat-focus-shortcut.user.js
 
 ```js
 // ==UserScript==
