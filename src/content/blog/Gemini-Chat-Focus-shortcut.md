@@ -28,7 +28,6 @@ Use `Esc` key to focus chat input
 
 document.addEventListener('keydown', (event) => {
     if (event.key === 'Escape') {
-        // Replace 'chat_box_selector' with the actual selector for your chat box
         const chatBox = document.querySelector('.ql-editor');
         if (chatBox) {
             chatBox.focus();
