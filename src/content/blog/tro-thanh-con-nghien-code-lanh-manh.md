@@ -7,6 +7,8 @@ tags:
   - psychology
 ---
 
+## Table of contents
+
 ## BẠN CÓ PHẢI LÀ MỘT CON NGHIỆN?
 
 > Nghiện là sự lặp lại liên tục của một hành vi bất chấp hậu quả xấu hoặc sự rối
