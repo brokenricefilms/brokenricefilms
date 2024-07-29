@@ -24,12 +24,11 @@ description: ""
 
   document.addEventListener("keydown", event => {
     if (event.key === "`") {
-      event.preventDefault(); // Prevent default tab behavior
+      event.preventDefault(); 
 
       const newChatButton = document.querySelector(newChatButtonSelector);
       if (newChatButton) {
-        // Simulate a click or submit event on the new chat button
-        newChatButton.click(); // Or use newChatButton.submit() if it's a form
+        newChatButton.click();
         const chatBox = document.querySelector(".ql-editor");
         if (chatBox) {
           chatBox.focus();
