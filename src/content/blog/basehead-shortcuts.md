@@ -76,7 +76,7 @@ MouseWheel (over waveform) = Increase Waveform Gain
 
 MouseWheel + Shift (over waveform) = Zoom In/Out
 
-Keypad 0-9 – plays sound at different semitone pitches.  (Not implemented yet)
+Keypad 0-9 – plays sound at different semitone pitches. (Not implemented yet)
 
 (Press Add/Subtract to toggle between pitch positive or negative)
 
@@ -106,7 +106,7 @@ Ctrl/Cmd + B – Bookmark Search Bar with Blocks
 
 Ctrl/Cmd + D – Manage Databases
 
-Ctrl/Cmd + E – X-fer to Wwise  (Not implemented yet)
+Ctrl/Cmd + E – X-fer to Wwise (Not implemented yet)
 
 Ctrl/Cmd + F – Set focus to Main Search Box
 

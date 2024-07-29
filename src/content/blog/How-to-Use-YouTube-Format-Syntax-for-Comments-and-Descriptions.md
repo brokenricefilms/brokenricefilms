@@ -10,6 +10,6 @@ description: ""
 
 `*` for **bold**
 
-`_` for *italics*
+`_` for _italics_
 
 `-` for ~~strikethrough~~

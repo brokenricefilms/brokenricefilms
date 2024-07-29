@@ -18,12 +18,14 @@ tags:
 // @grant        none
 // ==/UserScript==
 
-document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape') {
-        const chatBox = document.querySelector('div.hidden > div:nth-child(1) > div:nth-child(1) > form:nth-child(1) > div:nth-child(1) > textarea:nth-child(1)');
-        if (chatBox) {
-            chatBox.focus();
-        }
+document.addEventListener("keydown", event => {
+  if (event.key === "Escape") {
+    const chatBox = document.querySelector(
+      "div.hidden > div:nth-child(1) > div:nth-child(1) > form:nth-child(1) > div:nth-child(1) > textarea:nth-child(1)"
+    );
+    if (chatBox) {
+      chatBox.focus();
     }
+  }
 });
 ```

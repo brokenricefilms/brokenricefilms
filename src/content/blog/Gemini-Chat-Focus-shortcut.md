@@ -7,7 +7,7 @@ tags:
   - script
 ---
 
-I use this extension to run a script: https://violentmonkey.github.io 
+I use this extension to run a script: https://violentmonkey.github.io
 
 Repo: https://github.com/brokenricefilms/gemini-chat-focus-shortcut (script in this repo will be up to date, cuz i'm lazy to update script here)
 
@@ -26,12 +26,12 @@ Use `Esc` key to focus chat input
 // @grant        none
 // ==/UserScript==
 
-document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape') {
-        const chatBox = document.querySelector('.ql-editor');
-        if (chatBox) {
-            chatBox.focus();
-        }
+document.addEventListener("keydown", event => {
+  if (event.key === "Escape") {
+    const chatBox = document.querySelector(".ql-editor");
+    if (chatBox) {
+      chatBox.focus();
     }
+  }
 });
 ```

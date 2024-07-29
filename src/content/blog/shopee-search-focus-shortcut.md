@@ -22,12 +22,12 @@ Press the `Esc` key to focus on the search bar.
 // @grant        none
 // ==/UserScript==
 
-document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape') {
-        const chatBox = document.querySelector('.shopee-searchbar-input__input');
-        if (chatBox) {
-            chatBox.focus();
-        }
+document.addEventListener("keydown", event => {
+  if (event.key === "Escape") {
+    const chatBox = document.querySelector(".shopee-searchbar-input__input");
+    if (chatBox) {
+      chatBox.focus();
     }
+  }
 });
 ```
