@@ -9,3 +9,5 @@ description: ""
 ---
 
 On the Edit Video Details page, expand the options and add the tag `yt:cc=on` to the Tags list.
+
+![](@assets/images/yt-cc-on.png)
