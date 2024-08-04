@@ -19,7 +19,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const socialCount = SOCIALS.filter(social => social.active).length;
 
 import { Image } from "astro:assets";
-import thuanFace from "@assets/images/thuan-face.png";
+import thuanFace from "@assets/images/profile-thuan.png";
 
 import Tag from "@components/Tag.astro";
 import getUniqueTags from "@utils/getUniqueTags";
@@ -32,15 +32,18 @@ let tags = getUniqueTags(posts);
   <Header activeNav="home" />
   <main id="main-content">
     <section id="hero">
-      <p class="text-xl font-bold">Yo!</p>
+      <p class="text-xl font-bold animate-bounce">Yo!</p>
       <div class="space-y-6">
+                <a href="/portfolio">
         <Image
           src={thuanFace}
           width={250}
           format={"webp"}
           alt="Thuan Pham"
           loading="lazy"
+                    class="rounded-full animate-bounce"
         />
+                    </a>
         <Socials />
 
         <br />
