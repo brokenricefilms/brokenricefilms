@@ -24,7 +24,7 @@ description: ""
 
   document.addEventListener("keydown", event => {
     if (event.key === "`") {
-      event.preventDefault(); 
+      event.preventDefault();
 
       const newChatButton = document.querySelector(newChatButtonSelector);
       if (newChatButton) {
